@@ -1,4 +1,4 @@
-#🌡️ Real-Time Temperature Converter
+🌡️ Real-Time Temperature Converter
 A responsive web app that instantly converts between Celsius, Fahrenheit, and Kelvin as you type
 
 
