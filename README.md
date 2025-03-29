@@ -1,5 +1,6 @@
 #🌡️ Real-Time Temperature Converter
 A responsive web app that instantly converts between Celsius, Fahrenheit, and Kelvin as you type
+<img width="1267" alt="image" src="https://github.com/user-attachments/assets/de3cf843-7d17-4fa8-88ba-e0aaa9743b3c" />
 
 ## Features
 - **Real-time conversion** no "Convert" button needed
