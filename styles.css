@@ -35,7 +35,7 @@ input {
     color: #136F63;
     font-size: 4.5rem;
     text-align: center;
-    border-radius: 10px; /* Optional: smooth edges */
+    border-radius: 10px;
 }
 
 input:focus {
